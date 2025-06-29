@@ -20,6 +20,8 @@ clear
 git remote -v
 git push origin master
 clear
+git pull origin master
+
 
 
 this is new change
