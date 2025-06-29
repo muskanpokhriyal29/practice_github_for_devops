@@ -7,3 +7,16 @@ git commit -m "added testing file"
 rm testing.py
 git restore testing.py
 clear
+
+
+-to push files in github:
+
+git remote add origin https://github.com/muskanpokhriyal29/practice_gi... 
+git remote -v
+clear
+git remote -v
+git remote set-url origin https://ghp_o5ityvXPcysJGNLuy7C7QpsabmlyBN1P... 
+clear
+git remote -v
+git push origin master
+clear
